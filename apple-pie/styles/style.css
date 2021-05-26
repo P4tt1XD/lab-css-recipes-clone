@@ -1,0 +1,44 @@
+body {
+    
+    background-color: white;
+    position: absolute;
+    text-align: center;
+    font-family: fantasy;
+  }
+
+p { 
+    font-size: medium;
+    color: #000000;
+    background-image: none;
+    background-color: transparent;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: fantasy;   
+  }
+
+  head{
+    font-size: medium;
+    color: #000000;
+    background-image: none;
+    background-color: transparent;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: fantasy;   
+}
+
+header {
+    background-image: url(images/apple-pie.jpg);
+    background-size: cover;
+    background-color: transparent;
+    background-position: center;
+    color: white; 
+    font-size: 60px;
+    height: 400px;
+    width: 1200;
+    position: center;
+    text-align:center;
+}
+
+html {
+    position: center;
+}
